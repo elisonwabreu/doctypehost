@@ -179,7 +179,7 @@ p {
 .slide2 {
 	background:none;
 	text-align:center;
-	padding-top:90px;
+	padding-top:10px;
 }
 .slide2 h1 {
 	font-size:50px;
@@ -336,22 +336,22 @@ p {
 	text-align:center;
 }
 .PlanPricing .price {
-	background:#2cc76a;
-	padding:5px;
-	color:#FFF;
-	font-size:42px;
-	-webkit-border-radius:100%;
-	-moz-border-radius:100%;
-	border-radius:100%;
-	display:block;
-	width:100px;
-	height:100px;
-	line-height:100px;
-	margin:0 auto;
-	position:relative;
-	margin-top:-107px;
-	margin-bottom:10px;
-	line-height: 2.2;
+	background: #2cc76a;
+        padding: 8px;
+        color: #FFF;
+        font-size: 36px;
+        -webkit-border-radius: 100%;
+        -moz-border-radius: 100%;
+        border-radius: 100%;
+        display: block;
+        width: 162px;
+        height: 108px;
+        line-height: 100px;
+        margin: 0px auto;
+        position: relative;
+        margin-top: -107px;
+        margin-bottom: 10px;
+        line-height: 2.5;
 }
 .PlanPricing.Recommended .price {
 	background:#f45c57;
@@ -768,4 +768,11 @@ margin-bottom: -20px;
 	-webkit-box-shadow: none;
 	-moz-box-shadow: none;
 	box-shadow: none;
+}
+
+/*============== elison ================*/
+.preco{
+    font-size: 30px;
+    color: rgb(255, 147, 4);
+    text-shadow: 2px -2px #000;
 }
