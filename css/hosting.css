@@ -370,7 +370,7 @@ p {
 .PlanPricing .planFeatures {
 	background:	#e8e9ea;
 	text-align:center;
-	padding:10px;
+	padding:5px;
 }
 .PlanPricing .planFeatures ul {
 	margin:0;
@@ -405,6 +405,7 @@ p {
 }
 .ComparePlans .CompareList .planFeatures {
 	text-align:right;
+        margin-top: 157px;
 }
 .ComparePlans .planFeatures ul {
 	margin:0;
